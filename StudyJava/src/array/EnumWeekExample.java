@@ -37,6 +37,7 @@ public class EnumWeekExample {
 			today = Season.WINTER; break;
 		}		
 		System.out.println("today season : " + today);
+		//today season : AUTUMN
 		
 	}
 
